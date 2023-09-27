@@ -1,9 +1,9 @@
 # Olá, me chamo Jonas ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Técnico de Implantação das Soluções Domínio;
+- 🔭 Atualmente estou trabalhando como Técnico de Implantação das Soluções Domínio "Thomson Reuters";
 - 🌱 Atualmente estou aprendendo Python, Linux, Shell, DevOps e Banco de Dados;
-- 🤔 Estou procurando ajuda com DevOps;
+- 🤔 Estou procurando ajuda com DevOps e Python;
 - 📫 Como entrar em contato comigo: Linkedin (https://www.linkedin.com/in/jonaxs/) ou email (jleoc4dio@gmail.com)
 
 ## Ferramentas e Tecnologias
